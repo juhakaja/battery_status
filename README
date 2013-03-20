@@ -1,0 +1,4 @@
+Get the battery status.
+
+To install into bin:
+make install
